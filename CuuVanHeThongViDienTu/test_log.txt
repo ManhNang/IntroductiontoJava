@@ -1,0 +1,18 @@
+Log của Trường hợp depositAmount là số dương và transactionCount = 0:
+--- GIAO DỊCH NẠP TIỀN ---
+Số tiền nạp: 1000000
+Số dư sau khi nạp: 2148000000 VNĐ
+
+--- THỐNG KÊ CHI TIÊU ---
+Số giao dịch: 1000000
+Chi tiêu trung bình mỗi giao dịch: 0 VNĐ
+Đoạn code này sẽ không bao giờ được in ra vì app đã sập!
+Log của Trường hợp depositAmount là số âm:
+--- GIAO DỊCH NẠP TIỀN ---
+Số tiền nạp: -1000000
+Số dư sau khi nạp: 2147000000 VNĐ
+
+--- THỐNG KÊ CHI TIÊU ---
+Số giao dịch: 0
+Chi tiêu trung bình mỗi giao dịch: 0 VNĐ
+Đoạn code này sẽ không bao giờ được in ra vì app đã sập!
